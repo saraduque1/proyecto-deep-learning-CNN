@@ -7,5 +7,7 @@ Los datos fueron obtenidos de Kaggle: [GTSRB - German Traffic Sign Recognition B
 
 ## Autor
 Sara Lorena Duque Ramírez
-Ingeniería de Sistemas, Universidad de Antioquia
-Medellín, Colombia
+
+*Ingeniería de Sistemas, Universidad de Antioquia*  
+
+*Medellín, Colombia*
