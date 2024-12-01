@@ -5,6 +5,9 @@ Este proyecto utiliza Redes Neuronales Convolucionales (CNN) para el reconocimie
 
 Los datos fueron obtenidos de Kaggle: [GTSRB - German Traffic Sign Recognition Benchmark](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?resource=download&select=Train.csv)
 
+## Video
+https://www.youtube.com/watch?v=GAZ7WMl7tXg
+
 ## Autor
 Sara Lorena Duque Ramírez
 
